@@ -48,3 +48,7 @@ For successful completion of this course, students will require the computer sys
 
 * [Hands-On Python 3.x GUI Programming [Video]](https://www.packtpub.com/application-development/hands-python-3x-gui-programming-video?utm_source=github&utm_medium=repository&utm_campaign=9781789957242)
 
+### Download a free PDF
+
+ <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
+<p align="center"> <a href="https://packt.link/free-ebook/9781786465528">https://packt.link/free-ebook/9781786465528 </a> </p>
